@@ -1,0 +1,29 @@
+.Left {
+    float: left;
+    width: 50%;
+}
+.Right {
+    float: right;
+    width: 50%;
+}
+
+.stream-Thumbnail {
+    margin-left: 30px;
+    width: 600px;
+}
+
+.stream-Info {
+    margin: 30px;
+    font-size: 20px;
+}
+
+.stream-InfoR {
+    margin: 30px;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 600px) {
+    .Column {
+      width: 100%;
+    }
+  }
